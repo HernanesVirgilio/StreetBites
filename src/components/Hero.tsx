@@ -15,10 +15,10 @@ export const Hero: React.FC = () => {
       <div className="container mx-auto px-4 relative z-10">
         <div className="text-center max-w-4xl mx-auto">
           <h2 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
-            Sabores do <span className="text-yellow-300 drop-shadow-lg">Rio</span>
+            Sabores <span className="text-yellow-300 drop-shadow-lg">Incríveis</span>
           </h2>
           <p className="text-xl md:text-2xl mb-8 opacity-95 leading-relaxed">
-            Os melhores hambúrgueres, sanduíches e refeições de Matola Rio. 
+            Os melhores hambúrgueres, sanduíches e refeições. 
             <br className="hidden md:block" />
             <span className="font-semibold text-yellow-200">Entrega imediata e reserva rápida!</span>
           </p>

@@ -110,6 +110,8 @@ export const Contact: React.FC = () => {
                     </div>
                     <h4 className="text-2xl font-bold text-gray-800 mb-2">BurgStreet</h4>
                     <p className="text-lg text-orange-600 font-semibold">Matola Rio Foods</p>
+                    <h4 className="text-2xl font-bold text-gray-800 mb-2">Street Bites</h4>
+                    <p className="text-lg text-orange-600 font-semibold">Delicious Food</p>
                   </div>
 
                   <div className="grid md:grid-cols-2 gap-6 mb-8">

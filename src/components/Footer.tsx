@@ -14,13 +14,13 @@ export const Footer: React.FC = () => {
               </div>
               <div>
                 <h3 className="text-xl font-bold bg-gradient-to-r from-orange-400 to-red-400 bg-clip-text text-transparent">
-                  BurgStreet
+                  Street Bites
                 </h3>
-                <p className="text-sm text-orange-300 font-medium">Matola Rio Foods</p>
+                <p className="text-sm text-orange-300 font-medium">Delicious Food</p>
               </div>
             </div>
             <p className="text-gray-300 leading-relaxed">
-              Os melhores sabores de Matola Rio, entregues na sua porta. 
+              Os melhores sabores, entregues na sua porta. 
               Qualidade, rapidez e sabor em cada pedido.
             </p>
           </div>
@@ -62,9 +62,9 @@ export const Footer: React.FC = () => {
           <div className="flex flex-col md:flex-row items-center justify-between space-y-4 md:space-y-0">
             {/* Copyright */}
             <div className="flex items-center space-x-1 text-gray-400">
-              <span>© 2025 BurgStreet. Feito com</span>
+              <span>© 2025 Street Bites. Feito com</span>
               <Heart className="w-4 h-4 text-red-500" />
-              <span>em Matola Rio</span>
+              <span>com amor</span>
             </div>
 
             {/* Developer Credit */}

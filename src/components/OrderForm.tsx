@@ -82,7 +82,7 @@ export const OrderForm: React.FC<OrderFormProps> = ({
         `💰 *VALOR TOTAL: ${totalAmount}MT*%0A%0A` +
         `${formData.notes ? `📝 *OBSERVAÇÕES*%0A${formData.notes}%0A%0A` : ''}` +
         `⏰ *Data/Hora:* ${currentTime}%0A` +
-        `🏪 *Restaurante:* BurgStreet - Matola Rio%0A%0A` +
+        `🏪 *Restaurante:* Street Bites%0A%0A` +
         `━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━%0A` +
         `✅ *Pedido registrado no sistema*%0A` +
         `🚚 *Entrega imediata disponível*`;

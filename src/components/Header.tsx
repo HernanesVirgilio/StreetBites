@@ -20,9 +20,9 @@ export const Header: React.FC<HeaderProps> = ({ onCartClick }) => {
             </div>
             <div>
               <h1 className="text-2xl font-bold bg-gradient-to-r from-orange-600 to-red-600 bg-clip-text text-transparent">
-                BurgStreet
+                Street Bites
               </h1>
-              <p className="text-sm text-orange-600 font-medium">Matola Rio Foods</p>
+              <p className="text-sm text-orange-600 font-medium">Delicious Food</p>
             </div>
           </div>
 
